@@ -82,4 +82,4 @@ end
 
 -- callbacks
 client.add_callback("on_paint", on_paint)
-client.add_callback("on_paint2", on_paint)
+client.add_callback("on_paint", on_paint2)
